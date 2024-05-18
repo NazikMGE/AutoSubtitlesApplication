@@ -1,0 +1,9 @@
+customtkinter==5.2.2
+assemblyai==0.26.0
+pillow==10.2.0
+requests==2.31.0
+torch==2.2.2+cu118
+torchaudio==2.2.2+cu118
+torchvision==0.17.2+cu118
+faster-whisper==1.0.2
+win10toast==0.9
